@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.1.4" icons="true" always-add-relationships="false" generalizations="false" 
+  realizations="false" associations="false" dependencies="false" nesting-relationships="false">  
+  <class id="1" language="java" name="InstructionPanel" project="Mario ALLLMOST FINAL" 
+    file="/Mario ALLLMOST FINAL/src/InstructionPanel.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="282" y="-1921"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="2" language="java" name="MarioSprite" project="Mario ALLLMOST FINAL" 
+    file="/Mario ALLLMOST FINAL/src/MarioSprite.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="1017" width="203" x="8" y="-1962"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="3" language="java" name="Map2.KeyPasser" project="Mario ALLLMOST FINAL" 
+    file="/Mario ALLLMOST FINAL/src/Map2.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="168" x="354" y="-1961"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="4" language="java" name="ShroomSprite" project="Mario ALLLMOST FINAL" 
+    file="/Mario ALLLMOST FINAL/src/ShroomSprite.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="387" width="162" x="707" y="-1961"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="5" language="java" name="MysteryBox" project="Mario ALLLMOST FINAL" 
+    file="/Mario ALLLMOST FINAL/src/MysteryBox.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="387" width="153" x="535" y="-1961"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="6" language="java" name="ShroomCollision" project="Mario ALLLMOST FINAL" 
+    file="/Mario ALLLMOST FINAL/src/ShroomCollision.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="171" width="193" x="887" y="-1962"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="7" language="java" name="CoinCollision" project="Mario ALLLMOST FINAL" 
+    file="/Mario ALLLMOST FINAL/src/CoinCollision.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="189" width="192" x="1095" y="-1962"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="8" language="java" name="Map7" project="Mario ALLLMOST FINAL" file="/Mario ALLLMOST FINAL/src/Map7.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="4293" width="204" x="1307" y="-1961"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="9" language="java" name="Map6" project="Mario ALLLMOST FINAL" file="/Mario ALLLMOST FINAL/src/Map6.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="3915" width="200" x="1531" y="-1960"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="10" language="java" name="Map5" project="Mario ALLLMOST FINAL" file="/Mario ALLLMOST FINAL/src/Map5.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="4293" width="197" x="1747" y="-1959"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="11" language="java" name="Map4" project="Mario ALLLMOST FINAL" file="/Mario ALLLMOST FINAL/src/Map4.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="3861" width="210" x="1960" y="-1957"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="12" language="java" name="Map3" project="Mario ALLLMOST FINAL" file="/Mario ALLLMOST FINAL/src/Map3.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="4149" width="204" x="2188" y="-1960"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="13" language="java" name="Map2" project="Mario ALLLMOST FINAL" file="/Mario ALLLMOST FINAL/src/Map2.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="3717" width="197" x="2415" y="-1956"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="14" language="java" name="Map1" project="Mario ALLLMOST FINAL" file="/Mario ALLLMOST FINAL/src/Map1.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="3987" width="203" x="2638" y="-1951"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="15" language="java" name="Sound" project="Mario ALLLMOST FINAL" file="/Mario ALLLMOST FINAL/src/Sound.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="189" width="172" x="2863" y="-1956"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="16" language="java" name="EnemyCollision" project="Mario ALLLMOST FINAL" 
+    file="/Mario ALLLMOST FINAL/src/EnemyCollision.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="207" width="186" x="3057" y="-1954"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="17" language="java" name="MainMenu" project="Mario ALLLMOST FINAL" 
+    file="/Mario ALLLMOST FINAL/src/MainMenu.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="405" width="145" x="3266" y="-1952"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="18" language="java" name="MysteryCollision" project="Mario ALLLMOST FINAL" 
+    file="/Mario ALLLMOST FINAL/src/MysteryCollision.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="189" width="258" x="3432" y="-1953"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="19" language="java" name="BigCollision" project="Mario ALLLMOST FINAL" 
+    file="/Mario ALLLMOST FINAL/src/BigCollision.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="315" width="275" x="3716" y="-1952"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="20" language="java" name="Collision" project="Mario ALLLMOST FINAL" 
+    file="/Mario ALLLMOST FINAL/src/Collision.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="315" width="276" x="4014" y="-1951"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="21" language="java" name="Enemy" project="Mario ALLLMOST FINAL" file="/Mario ALLLMOST FINAL/src/Enemy.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="495" width="140" x="4312" y="-1949"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="22" language="java" name="CoinSprite" project="Mario ALLLMOST FINAL" 
+    file="/Mario ALLLMOST FINAL/src/CoinSprite.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="459" width="157" x="4479" y="-1950"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="23" language="java" name="Core" project="Mario ALLLMOST FINAL" file="/Mario ALLLMOST FINAL/src/Core.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="120" x="4650" y="-1946"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="false" multiplicity="false"/>
+</class-diagram>
